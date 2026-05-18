@@ -1,0 +1,65 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "title": "The Unique Lama",
+      "releaseDate": "2019",
+      "posterPath": "images/public_images_The Unique Lama.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Lion King",
+      "releaseDate": "2016",
+      "posterPath": "images/public_images_Lion King.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Unique 8",
+      "releaseDate": "2016",
+      "posterPath": "images/public_images_Unique 8.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Avengers",
+      "releaseDate": "2019",
+      "posterPath": "images/avengers.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Deadpool 2",
+      "releaseDate": "2018",
+      "posterPath": "images/dp2.jpg"
+    },
+    {
+      "id": "7",
+      "title": "Dragon",
+      "releaseDate": "2020",
+      "posterPath": "images/dragon.jpg"
+    },
+    {
+      "id": "8",
+      "title": "John Wick",
+      "releaseDate": "2014",
+      "posterPath": "images/johnny.jpg"
+    },
+    {
+      "id": "9",
+      "title": "Lord of the Rings",
+      "releaseDate": "2001",
+      "posterPath": "images/lord.jpg"
+    },
+    {
+      "id": "10",
+      "title": "Monday",
+      "releaseDate": "2021",
+      "posterPath": "images/monday.jpg"
+    },
+    {
+      "id": "11",
+      "title": "Shawshank Redemption",
+      "releaseDate": "1994",
+      "posterPath": "images/shawshank.jpeg"
+    }
+  ],
+  "favourites": []
+}
