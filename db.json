@@ -61,5 +61,12 @@
       "posterPath": "images/shawshank.jpeg"
     }
   ],
-  "favourites": []
+  "favourites": [
+    {
+      "id": "4",
+      "title": "Avengers",
+      "releaseDate": "2019",
+      "posterPath": "images/avengers.jpg"
+    }
+  ]
 }
